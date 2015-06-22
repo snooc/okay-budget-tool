@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/snooc/okay-budget-tool",
   "dependencies": {
-    "babel": "^5.6.2"
+    "babel": "^5.6.2",
+    "commander": "^2.8.1",
+    "hapi": "^8.6.1"
   }
 }

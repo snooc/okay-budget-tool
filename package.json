@@ -1,0 +1,29 @@
+{
+  "name": "okay-budget-tool",
+  "version": "0.0.1",
+  "description": "An okay budget too to help with simple finances.",
+  "bin": {
+    "obt": "./bin/obt"
+  },
+  "scripts": {
+    "start": "./bin/obt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snooc/okay-budget-tool.git"
+  },
+  "keywords": [
+    "finance",
+    "budget"
+  ],
+  "author": "Cody Coons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snooc/okay-budget-tool/issues"
+  },
+  "homepage": "https://github.com/snooc/okay-budget-tool",
+  "dependencies": {
+    "babel": "^5.6.2"
+  }
+}
